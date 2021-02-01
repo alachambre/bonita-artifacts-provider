@@ -3,7 +3,7 @@
 		"name" : "Bonita connector REST",
 		"description" : "Bonita connector to send HTTP requests",
 		"type" : "Connector",
-		"icon" : "https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_globe_sphere-512.png",
+		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/web_icon.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-rest",
 		"version" : "1.0.10"
@@ -30,7 +30,7 @@
 		"name" : "Bonita connector Webservice",
 		"description" : "Bonita connector to interact with webservices",
 		"type" : "Connector",
-		"icon" : "https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_globe_sphere-512.png",
+		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/web_icon.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-webservice",
 		"version" : "1.3.2"
