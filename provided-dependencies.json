@@ -1,5 +1,31 @@
 [
 	{
+		"name" : "Bonita connector CMIS",
+		"description" : "CMIS Connectors for Bonita.",
+		"type" : "Connector",
+		"groupId" : "org.bonitasoft.connectors",
+		"artifactId" : "bonita-connector-cmis",
+		"version" : "3.0.4"
+	},
+	{
+		"name" : "Bonita connector Database",
+		"description" : "Enables interactions in your Bonita processes with various databases.",
+		"type" : "Connector",
+		"Icon" : "https://cdn2.iconfinder.com/data/icons/blue-bits-basic-and-bonus/256/033.png",
+		"groupId" : "org.bonitasoft.connectors",
+		"artifactId" : "bonita-connector-database",
+		"version" : "2.0.3"
+	},
+	{
+		"name" : "Bonita connector email",
+		"description" : "Enables interactions in your Bonita processes with mail servers.",
+		"type" : "Connector",
+		"Icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/email_icon.png",
+		"groupId" : "org.bonitasoft.connectors",
+		"artifactId" : "bonita-connector-email",
+		"version" : "1.3.0"
+	},
+	{
 		"name" : "Bonita connector REST",
 		"description" : "Bonita connector to send HTTP requests",
 		"type" : "Connector",
