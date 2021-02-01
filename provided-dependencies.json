@@ -34,5 +34,14 @@
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-webservice",
 		"version" : "1.3.2"
+	},
+	{
+		"name" : "Bonita actor filter initiator",
+		"description" : "Bonita Actor Filter that filter users of an actor based on the process initiator",
+		"type" : "Actor filter",
+		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/web_icon.png",
+		"groupId" : "org.bonitasoft.actorfilter",
+		"artifactId" : "bonita-actorfilter-initiator",
+		"version" : "1.0.0"
 	}
 ]
