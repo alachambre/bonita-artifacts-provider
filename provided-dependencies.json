@@ -11,7 +11,6 @@
 		"name" : "Connector Database",
 		"description" : "Enables interactions in your Bonita processes with various databases.",
 		"type" : "Connector",
-		"icon" : "https://cdn2.iconfinder.com/data/icons/blue-bits-basic-and-bonus/256/033.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-database",
 		"version" : "2.0.3"
