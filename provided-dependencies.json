@@ -1,6 +1,6 @@
 [
 	{
-		"name" : "Bonita connector CMIS",
+		"name" : "Connector CMIS",
 		"description" : "CMIS Connectors for Bonita.",
 		"type" : "Connector",
 		"groupId" : "org.bonitasoft.connectors",
@@ -8,7 +8,7 @@
 		"version" : "3.0.4"
 	},
 	{
-		"name" : "Bonita connector Database",
+		"name" : "Connector Database",
 		"description" : "Enables interactions in your Bonita processes with various databases.",
 		"type" : "Connector",
 		"icon" : "https://cdn2.iconfinder.com/data/icons/blue-bits-basic-and-bonus/256/033.png",
@@ -17,16 +17,15 @@
 		"version" : "2.0.3"
 	},
 	{
-		"name" : "Bonita connector email",
+		"name" : "Connector email",
 		"description" : "Enables interactions in your Bonita processes with mail servers.",
 		"type" : "Connector",
-		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/email_icon.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-email",
 		"version" : "1.3.0"
 	},
 	{
-		"name" : "Bonita connector REST",
+		"name" : "Connector REST",
 		"description" : "Bonita connector to send HTTP requests",
 		"type" : "Connector",
 		"groupId" : "org.bonitasoft.connectors",
@@ -34,7 +33,7 @@
 		"version" : "1.0.10"
 	},
 	{
-		"name" : "Bonita connector Twitter",
+		"name" : "Connector Twitter",
 		"description" : "Bonita connector to send twitter messages",
 		"type" : "Connector",
 		"icon" : "https://image.flaticon.com/icons/png/512/124/124021.png",
@@ -43,7 +42,7 @@
 		"version" : "1.2.1"
 	},
 	{
-		"name" : "Bonita connector UIPath",
+		"name" : "Connector UIPath",
 		"description" : "Bonita connector to interact with an UIPath system",
 		"type" : "Connector",
 		"icon" : "https://www.finsmes.com/wp-content/uploads/2018/09/uipath.jpg",
@@ -52,16 +51,15 @@
 		"version" : "2.1.1"
 	},
 	{
-		"name" : "Bonita connector Webservice",
+		"name" : "Connector Webservice",
 		"description" : "Bonita connector to interact with webservices",
 		"type" : "Connector",
-		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/web_icon.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-webservice",
 		"version" : "1.3.2"
 	},
 	{
-		"name" : "Bonita actor filter initiator",
+		"name" : "Actor filter initiator",
 		"description" : "Bonita Actor Filter that filter users of an actor based on the process initiator",
 		"type" : "Actor filter",
 		"groupId" : "org.bonitasoft.actorfilter",
