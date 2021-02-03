@@ -104,6 +104,7 @@
 		"name" : "Connector Office - Document templating",
 		"description" : "Bonita connector for Office document templating.",
 		"type" : "Connector",
+		"icon" : "https://img.generation-nt.com/microsoft-office-logo_012C00C801634934.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-document-templating",
 		"version" : "2.1.0"
@@ -112,6 +113,7 @@
 		"name" : "Connector Office - Document converter",
 		"description" : "Bonita connector that convert Office document (in formats docx and odt) into PDF or HTML.",
 		"type" : "Connector",
+		"icon" : "https://img.generation-nt.com/microsoft-office-logo_012C00C801634934.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-document-converter",
 		"version" : "2.1.0"
@@ -120,6 +122,7 @@
 		"name" : "Connector SAP",
 		"description" : "Bonita connector to interact with an SAP system.",
 		"type" : "Connector",
+		"icon" : "https://corra.com/wp-content/uploads/Sap-Logo--e1530285069227.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-sap-parent",
 		"version" : "2.0.1"
