@@ -168,7 +168,7 @@
 		"version" : "1.0.0"
 	},
 	{
-		"name" : "Actor filter custom user info",
+		"name" : "Actor filter custom user information",
 		"description" : "Filter users of an actor based on their custom user information.",
 		"type" : "Actor filter",
 		"groupId" : "org.bonitasoft.actorfilter",
