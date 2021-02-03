@@ -104,7 +104,7 @@
 		"name" : "Connector Office - Document templating",
 		"description" : "Bonita connector for Office document templating.",
 		"type" : "Connector",
-		"icon" : "https://delerabliere.ca/wp-content/uploads/2020/09/office.png",
+		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/office_icon.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-document-templating",
 		"version" : "2.1.0"
@@ -113,7 +113,7 @@
 		"name" : "Connector Office - Document converter",
 		"description" : "Bonita connector that convert Office document (in formats docx and odt) into PDF or HTML.",
 		"type" : "Connector",
-		"icon" : "https://delerabliere.ca/wp-content/uploads/2020/09/office.png",
+		"icon" : "https://raw.githubusercontent.com/alachambre/bonita-artifacts-provider/master/icons/office_icon.png",
 		"groupId" : "org.bonitasoft.connectors",
 		"artifactId" : "bonita-connector-document-converter",
 		"version" : "2.1.0"
